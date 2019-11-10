@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/azulCielo"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:context=".SimpleFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radio_a"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:text="@string/japon" />
+
+        <RadioButton
+            android:id="@+id/radio_b"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:text="@string/indonesia" />
+
+        <RadioButton
+            android:id="@+id/radio_c"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:text="@string/jamaica" />
+
+        <RadioButton
+            android:id="@+id/radio_d"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:text="@string/canada" />
+
+
+
+    </RadioGroup>
+
+</LinearLayout>

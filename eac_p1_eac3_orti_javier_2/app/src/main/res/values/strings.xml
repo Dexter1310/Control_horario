@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SELECCIONA DESTINO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragmento</string>
+    <string name="elegidaA">Imagen elegida : Japón</string>
+    <string name="elegidaB">Imagen elegida : Indonesia</string>
+    <string name="elegidaC">Imagen elegida : Jamaica</string>
+    <string name="elegidaD">Imagen elegida : Canada </string>
+    <string name="elegidaE">Imagen elegida : Nada</string>
+    <string name="info">INFORMACION</string>
+
+    <string name="japon">Japon</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="jamaica">Jamaica</string>
+    <string name="canada">Canada</string>
+    <string name="texto2">escribo al dos</string>
+    <string name="eliga">Eliga una imagen</string>
+    <string name="atras">Atras</string>
+    <string name="pais">Pais</string>
+
+</resources>
